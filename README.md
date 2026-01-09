@@ -12,6 +12,9 @@ In the paper we also denote them using arrows, namely ↑ stands for +1 and ↓ 
 Both opinions change in time as a result of independence or conformity. 
 Figures below show algorithms of elementary changes. 
 
+<img src="algorithm_harmony.png" width="500">
+<img src="algorithm_dissonance.png" width="500">
+
 ### Model parameters
 - N - number of nodes (agents in the system)
 - q - size of influence group
